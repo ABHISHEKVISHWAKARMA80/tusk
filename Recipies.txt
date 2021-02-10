@@ -4,4 +4,7 @@ pasta
 meggi
 kheer
 
+Beans
+Pizza
+
 thank you :)
